@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 int main()
 {
     char nombre1[21], nombre2[21];
